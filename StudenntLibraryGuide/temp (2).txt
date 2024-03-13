@@ -1,0 +1,5 @@
+B001  The_Great_Gatsby           F_._Scott_Fitzgerald     5  2
+B002  1984                       George_Orwell            3  1
+B003  Pride_and_Prejudice        Jane_Austen              4  0
+B004  To_Kill_a_Mockingbird      Harper_Lee               2  2
+B005  Animal_Farm                George_Orwell            3  1
